@@ -8,7 +8,7 @@ export default function UpdateTable() {
         <table border="1px">
             <thead>
                 <tr>
-                    <th>Data Collection</th>
+                    <th>Data Summary</th>
                 </tr>
                 <tr>
                     <th>Name</th>
@@ -18,9 +18,19 @@ export default function UpdateTable() {
             </thead>
             <tbody>
                 <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>Joe Smith</td>
+                    <td>joesmith@gmail.com</td>
+                    <td>111-222-3333</td>
+                </tr>
+                <tr>
+                    <td>Joe Smith</td>
+                    <td>joesmith@gmail.com</td>
+                    <td>111-222-3333</td>
+                </tr>
+                <tr>
+                    <td>Joe Smith</td>
+                    <td>joesmith@gmail.com</td>
+                    <td>111-222-3333</td>
                 </tr>
             </tbody>
         </table>

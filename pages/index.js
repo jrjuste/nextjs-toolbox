@@ -13,9 +13,7 @@ export default function Home() {
       <main>
         <Header title="Working with result sets" />
         <hr />
-        <p className="description">
-         Goal: Host an application/Utilize JS code to update rows on a result set from inputs - in a custom component
-        </p>
+        
         
         <UpdateTable />
       </main>

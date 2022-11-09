@@ -7,14 +7,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Toolbox</title>
+        <title>JS</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <Header title="Next.js Toolbox" />
+        <Header title="Working with result sets" />
         <hr />
         <p className="description">
-         Testing Netlify
+         Goal: Host an application/Utilize JS code to update rows on a result set from inputs - in a custom component
         </p>
         
         <UpdateTable />
